@@ -1,2 +1,2 @@
-# wordsmith-api
+# wordsmith-k8s
 demo
